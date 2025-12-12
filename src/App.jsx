@@ -4,7 +4,7 @@ import {
   Menu, X, CheckCircle, ArrowRight, Instagram, Facebook, Heart, Clock, Users, BookOpen
 } from 'lucide-react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Products from './pages/products.jsx';
+import Products from './pages/Products.jsx';
 
 
 
